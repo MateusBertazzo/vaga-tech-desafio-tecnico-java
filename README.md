@@ -18,7 +18,3 @@ Requisito: 𝐂𝐚𝐝𝐚𝐬𝐭𝐫𝐨 𝐞 𝐥𝐢𝐬𝐭𝐚𝐠𝐞�
 
 Versão do projeto:
 - JDK: 21.0.1
-
-
-Meu GitHub:
-- https://github.com/MateusBertazzo
